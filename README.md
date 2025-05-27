@@ -4,7 +4,7 @@
 let message = 'Hello world';
 print(message)
 ```
-- 🤩 I’m currently learning JavaScript!
+- 🤩 I’m currently learning Python/R/JavaScript!
 - 😮‍💨 Fun fact: rice noodles lover!
 
 _**Find** me_ : [https://codepen.io/cheeeeeryou/](https://codepen.io/cheeeeeryou/)
